@@ -4,4 +4,4 @@ let input = document.getElementsByClassName("in")[0];
           let result=parseInt(input.value);
           result = result * result;
           outer.value = result;
-      }
+      } 
